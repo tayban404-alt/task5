@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Top section */
+.contact-top {
+  background: white;
+  text-align: center;
+  padding: 60px 0;
+}
+
+.contact-top h1 {
+  font-size: 50px;
+  border-bottom: 3px solid yellow;
+  display: inline-block;
+}
+
+.small-text {
+  position: absolute;
+  left: 30px;
+  top: 40px;
+  font-size: 12px;
+}
+
+/* Bottom section */
+.contact-bottom {
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 50px 20px;
+}
+
+.box {
+  width: 20%;
+  color:white;
+}
+
+.left h2 {
+  font-size: 30px;
+}
+.box{
+    color: white;
+}
